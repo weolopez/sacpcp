@@ -9,6 +9,8 @@
       <button ion-item *ngFor="let p of pages" (click)="openPage(p)">
         {{p.title}}
       </button>
+      <div> {{ (af.auth | async).uid }} </div>
+  <button (click)="login()">Login</button>
     </ion-list>
   </ion-content>
    
