@@ -11,3 +11,4 @@ hooks/
 .DS_Store
 Thumbs.db
 .tmp
+npm-debug.log
