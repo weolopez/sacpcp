@@ -3,7 +3,7 @@
 
 /src/lib/
 node_modules/
-www/build/
+www/
 platforms/
 plugins/
 hooks/
